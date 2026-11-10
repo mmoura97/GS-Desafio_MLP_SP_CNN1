@@ -1,0 +1,20 @@
+GLOBAL SOLUTION - CLASSIFICACAO DE OCORRENCIAS COM MLP
+
+Aluno: Matheus Moura da Silva
+RM: 566782
+Turma: 2CCPR
+
+REPOSITORIO GITHUB
+https://github.com/mmoura97/GS-Desafio_MLP_SP_CNN1
+
+APLICACAO WEB PUBLICA (SEM LOGIN)
+https://ocorrencias-sp-mlp-lab.awakegerbil3.chatgpt.site/
+
+NOTEBOOK
+modelo_mlp_sp.ipynb
+
+RELATORIO TECNICO - 10 SLIDES
+relatorio/relatorio_10_slides.pdf
+
+ORIENTACOES DE EXECUCAO
+README.md
