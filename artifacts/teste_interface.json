@@ -1,0 +1,22 @@
+{
+  "data": "2026-11-10",
+  "acesso": "publico_sem_login",
+  "ambiente": "navegador desktop",
+  "distrito_obrigatorio": true,
+  "exemplos": [
+    {
+      "distrito": "01º D.P. SE",
+      "mes": "Janeiro",
+      "classe": "Furto",
+      "roubo_percentual": 31.4,
+      "furto_percentual": 68.6
+    },
+    {
+      "distrito": "47º D.P. CAPAO REDONDO",
+      "mes": "Dezembro",
+      "classe": "Roubo",
+      "roubo_percentual": 66.0,
+      "furto_percentual": 34.0
+    }
+  ]
+}

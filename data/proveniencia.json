@@ -1,0 +1,19 @@
+{
+  "linhas_fonte": 770371,
+  "sha256": "fcad92a9f348b59b9c7a5b195d1fb956f8fb75eb9a5e55f84665d0bb7c0de70d",
+  "url": "https://raw.githubusercontent.com/nublia/data-science-playground/master/dat/boletins_ocorrencia_sp_clean_2016.csv.gz",
+  "acesso": "2026-11-10",
+  "linhas_BO_inconsistente": 12920,
+  "linhas_capital_consistentes": 500157,
+  "linhas_elegiveis": 406585,
+  "BOs_elegiveis": 404108,
+  "classes_populacao": {
+    "0": 202374,
+    "1": 201734
+  },
+  "amostra": 20000,
+  "classes_amostra": {
+    "0": 10016,
+    "1": 9984
+  }
+}

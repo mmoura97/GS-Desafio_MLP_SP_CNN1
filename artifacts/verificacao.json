@@ -1,0 +1,7 @@
+{
+  "boletins_unicos": 20000,
+  "conjuntos_disjuntos": true,
+  "casos_paridade": 200,
+  "erro_maximo_python_js": 1.1102230246251565e-16,
+  "probabilidades_validas": true
+}
